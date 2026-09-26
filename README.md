@@ -4,7 +4,7 @@ Site de viagem desenvolvido para praticar fundamentos de **Front-End**, utilizan
 
 ## 🔗 Demo
 
-> Adicione aqui o link do site publicado (ex: GitHub Pages), se houver.
+(https://miguelassis-del.github.io/Site-de-Viagem/).
 
 ## 🖼️ Sobre o projeto
 
